@@ -10,10 +10,7 @@ weight: 302
 
 ### Description
 
-- Developed an event-driven serverless integration framework using AWS Lambda and EventBridge, facilitating seamless synchronization of customer data between Salesforce and BuyerAssist.
-- Designed and implemented a configuration-driven framework to enhance the pattern-matching capability of AWS EventBridge, preventing over 1000 false invocations of AWS Lambda functions every day.
-- Implemented a system to track asynchronous data transfer jobs through AWS AppFlow, which reduced the issue tracking time to under 5 mins.
-- Developed a Salesforce app using SFDX to provide clients a customized experience within their Salesforce dashboard.
-- Developed a Slack bot that sent interactive daily notifications to customers, enabling them to take direct actions from Slack. This streamlined operations and boosted sales by over 50%.
+- Learned about live application deployments on production servers as well as pre-production servers and development of applications with client interactions which included analyzing and resolving errors as part of Administration team.
+- Used OutSystems tool to deploy and develop applications, Logz.io and Oracle Enterprise Manager for monitoring and developer report generations and service now for client tickets and monthly applications analysis reports.
 
 ![](/experience/buyerassist/schneider.png#center)
